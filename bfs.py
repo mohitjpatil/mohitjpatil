@@ -6,7 +6,7 @@ if choise==1:
   result= n + m
 elif choise==2:
   result= n - m
-elif choise==:
+elif choise==3:
   result= n * m
 if choise==4:
   result= n / m

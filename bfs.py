@@ -1,7 +1,7 @@
 n=10
 m=5
 result = 0
-choice = int(input(" Enter Your Choise as per\n1. ADD\n2.Sub\n3.Mul\n4.Div\n So WHat is Your choise : "  ))
+choise = int(input(" Enter Your Choise as per\n1. ADD\n2.Sub\n3.Mul\n4.Div\n So WHat is Your choise : "  ))
 if choise==1:
   result= n + m
 elif choise==2:
